@@ -1,0 +1,31 @@
+h2{
+  text-align: center;
+  size: 20%;
+}
+div.col-sm-4.col-xs-12{
+  height: 744; width: 123;
+  padding: 0px 15px;
+}
+.slanty-top{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.topnav{
+  height: 40px;
+  display: flex;
+  background-color: #99803e;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  
+}
+.topnav a {
+  color:white;
+  margin-left: 5%;
+}
+img {
+  background-color: black;
+  width: 100%;
+}

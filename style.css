@@ -1,0 +1,20 @@
+.snippet img{
+    width: 150px;
+    max-width: 100%;
+    height:auto;
+    
+    
+     }
+    
+    @media(max-width: 767px) {
+    .snippet img{
+    
+        width:100px;
+        float: right;
+        max-width: 100px;
+        height: auto;
+        margin-left: 10px;
+        margin-right: 10px;
+        }
+    }
+    
